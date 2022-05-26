@@ -6,5 +6,10 @@ Question 1:
  filename : substring.php
  
 Question 2:
- keep multiplying found values by two. 
+ Keep multiplying found values by two. 
  filename : findFinalValue.php
+
+Question 3:
+ Check the input is palindrome. 
+ filename : palindrome.php
+
