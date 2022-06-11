@@ -13,3 +13,7 @@ Question 3:
  Check the input is palindrome. 
  filename : palindrome.php
 
+Question 4:
+ Search Insert Position. 
+ filename : searchInsertPosition.php
+
